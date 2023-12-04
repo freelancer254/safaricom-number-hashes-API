@@ -30,7 +30,9 @@ res = requests.get(URL, headers=headers).json()
 """
 ```
 ## Errors
-Status Code 503: Service is unavailable
-Status Code 401: Unauthorized
+Status Code 503: Service is unavailable  
+
+Status Code 401: Unauthorized  
+
 Note: For invalid/non-existent hashes, the response is `None`.
 
