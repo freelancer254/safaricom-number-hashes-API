@@ -9,7 +9,7 @@ You will be provided with a URL and API KEY. These credentials are sufficient to
 The API is FREE, but there is a rate limit of 10 requests per second.
 
 ## Integrating
-Just send a GET request to the URL. Append the hash at the end of the URL. Example: `https://example.com/5c76f48d16048f8c2926ef5aa79dd515a71022a28f45b1b9909475724e60f25a/`
+Just send a GET request to the URL. Append the hash at the end of the URL. Example: `https://example.com/5c76f48d16048f8c2926ef5aa79dd515a71022a28f45b1b9909475724e60f25a`
 
 Remember to add the `X-API-KEY` header.
 
